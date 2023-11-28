@@ -5,4 +5,4 @@ Python and C++
 # When?
 Probably January a proper release for either of the langs.
 # How?
-Don't worry, this will have detailed instructions.
+[Here are the instructions, scroll down to see them](https://quiktools.github.io)
