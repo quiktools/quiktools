@@ -1,0 +1,2 @@
+/home/noerlol/C-Projects/quiktools/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noerlol/C-Projects/quiktools/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

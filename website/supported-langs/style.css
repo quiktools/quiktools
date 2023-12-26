@@ -1,0 +1,76 @@
+body {
+    font-family: "mulish", sans-serif;
+    min-height: 100vh;
+    color: white;
+    background-size: cover;
+    margin: 0;
+}
+
+.top-bar {
+    background-color: transparent; /* Set the background to transparent */
+    color: white;
+    padding: 10px;
+    text-align: right;
+}
+
+.top-bar a {
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    text-align: right;
+    margin: 0 5px; /* Add some space between links */
+}
+
+.top-link {
+    color: #f5a9b8;
+}
+
+.top-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black; /* Set the button background color */
+    opacity: 0; /* Initially hide the button */
+    transition: opacity 0.3s; /* Add a transition for smooth hover effect */
+    text-align: right;
+}
+
+a:any-link {
+    color: #000000;
+}
+p {
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bolder;
+    color: black;
+}
+
+.proper-heading {
+    font-size: 32px;
+}
+
+.proper-para {
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-right: 40%;
+}
+
+.the-noerlol-special {
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-right: 40%;
+}
+
+.top-bar {
+    text-align: right;
+}
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('../fonts/Mulish.woff') format('woff2')
+}
